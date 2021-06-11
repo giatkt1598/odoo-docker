@@ -1,0 +1,2 @@
+Create new module:
+	docker exec <container_id> odoo scaffold <module_name> /mnt/extra-addons 
